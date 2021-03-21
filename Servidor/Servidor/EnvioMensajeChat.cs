@@ -14,7 +14,7 @@ namespace Servidor
 
         public EnvioMensajeChat()
         {
-
+            this.contenidoMensaje = contenidoMensaje;
         }
 
         public EnvioMensajeChat(string contenidoMensaje, string usuarioEmisor, string delegacionEmisor, bool isMensaje, bool isReporte)
