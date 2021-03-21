@@ -163,7 +163,10 @@ namespace Sistema_DirecciónGeneral
             DragMove();
         }
     }
-
-       /* Comentario al final de la linea
-      Paso 2 Mision dos Martha */
 }
+
+    /* Comentario al final de la linea
+    Paso 2 Mision dos Martha
+        Hola
+        Hola
+    */
